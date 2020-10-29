@@ -2,7 +2,9 @@
 
 I'm an open source developer creating and contributing to many different projects, while trying to expand my knowledge involving Java based projects.
 
-For easy contact join my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM) or contact me on Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/tr7zw?label=%40tr7zw&style=social)](https://twitter.com/tr7zw). If you like my projects, consider supporting me on [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Ftr7zw%2Fpledges&style=for-the-badge)](https://www.patreon.com/tr7zw).
+For easy contact join my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM) or contact me on Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/tr7zw?label=%40tr7zw&style=social)](https://twitter.com/tr7zw). If you like my projects, consider supporting me on [![Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dtr7zw%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/tr7zw).
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tr7zw&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
 
 <!--
 **tr7zw/tr7zw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
