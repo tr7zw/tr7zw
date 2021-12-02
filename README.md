@@ -2,7 +2,7 @@
 
 I'm an open source developer creating and contributing to many different projects, while trying to expand my knowledge involving Java based projects.
 
-For easy contact join my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM) or contact me on Twitter [![Twitter Follow](https://img.shields.io/twitter/follow/tr7zw?label=%40tr7zw&style=social)](https://twitter.com/tr7zw).
+For easy contact join my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM) or open an issue on the correct repo.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tr7zw&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
 
