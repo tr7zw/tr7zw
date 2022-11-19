@@ -2,7 +2,7 @@
 
 I'm an open source developer creating and contributing to many different projects, while trying to expand my knowledge involving Java based projects.
 
-For easy contact join my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM) or open an issue on the correct repo.
+For easy contact join my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM) or open an issue on the correct repo. <a rel="me" href="https://mastodon.social/@tr7zw">Mastodon</a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O7ACGRH)
 
