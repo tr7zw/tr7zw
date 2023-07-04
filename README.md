@@ -2,11 +2,10 @@
 
 I'm an open source developer creating and contributing to many different projects, while trying to expand my knowledge involving Java based projects.
 
-For easy contact join my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM) or open an issue on the correct repo. <a rel="me" href="https://mastodon.social/@tr7zw">Mastodon</a>
-
+For easy contact join my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM) or open an issue on the correct repo.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O7ACGRH)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tr7zw&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![Github Stats](github-metrics.svg)
 
 <!--
 **tr7zw/tr7zw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
