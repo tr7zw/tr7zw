@@ -39,6 +39,7 @@ jobs:
           # Options
           user: tr7zw
           template: classic
+          base: 
           config_timezone: Europe/Berlin
           
           # Plugins
