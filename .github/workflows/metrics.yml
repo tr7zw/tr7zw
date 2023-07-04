@@ -29,7 +29,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
           plugin_calendar: yes
-          plugin_calendar_limit: 4
+          plugin_calendar_limit: 5
       - uses: lowlighter/metrics@latest
         with:
           filename: rightside.svg
