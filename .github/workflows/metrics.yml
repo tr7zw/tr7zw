@@ -29,13 +29,10 @@ jobs:
           plugin_languages_threshold: 2%
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
-          plugin_stargazers_days: 0
+          plugin_stargazers_days: 1000
           plugin_calendar: yes
           plugin_calendar_limit: 4
           plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_types: commit, issue, pull-request
           plugin_people: yes
           plugin_people_limit: 28
           plugin_people_size: 28
