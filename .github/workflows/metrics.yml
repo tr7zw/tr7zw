@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -27,10 +28,23 @@ jobs:
           plugin_languages_ignored: CSS, HTML, PHP, Hack
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
+          plugin_calendar: yes
+          plugin_calendar_limit: 4
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: rightside.svg
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: tr7zw
+          template: classic
+          config_timezone: Europe/Berlin
+          
+          # Plugins
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
           plugin_stargazers_days: 1000
-          plugin_calendar: yes
-          plugin_calendar_limit: 4
-          plugin_lines: yes
-          plugin_lines_history_limit: 4
+          plugin_rss: yes
+          plugin_rss_source: https://tr7zw.github.io/index.xml
+          plugin_rss_limit: 6
